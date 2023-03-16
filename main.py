@@ -1,0 +1,1 @@
+strip = neopixel.create(DigitalPin.P0, 4, NeoPixelMode.RGB)
